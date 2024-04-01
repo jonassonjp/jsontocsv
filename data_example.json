@@ -1,0 +1,20 @@
+[
+  {
+    "IDProc": "DP01",
+    "Titulo": "Desenvolvimento de Software",
+    "Objetivos": ["Desenvolver código de alta qualidade", "Assegurar entrega pontual"],
+    "Finalidades": ["Lançar produto até o 3º trimestre", "Melhorar eficiência do código"]
+  },
+  {
+    "IDProc": "DP01",
+    "Titulo": "Campanha de Marketing",
+    "Objetivos": ["Aumentar reconhecimento da marca", "Gerar leads"],
+    "Finalidades": ["Alcançar 100 mil impressões", "Adquirir 500 novos clientes"]
+  },
+  {
+    "IDProc": "DP01",
+    "Titulo": "Suporte ao Cliente",
+    "Objetivos": ["Resolver questões dos clientes prontamente", "Melhorar satisfação do cliente"],
+    "Finalidades": ["Reduzir tempo de resposta em 20%", "Alcançar taxa de satisfação de 90%"]
+  }
+]

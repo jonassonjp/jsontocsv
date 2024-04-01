@@ -3,6 +3,11 @@ import pandas as pd
 import os
 
 
+def replace_characters(text, char_to_replace, replacement_char):
+    # Replace 'char_to_replace' with 'replacement_char'
+    return text.replace(char_to_replace, replacement_char)
+
+
 def json_to_csv(json_file, csv_file):
     # Read the JSON file into a pandas DataFrame
     df = pd.read_json(json_file)
@@ -13,6 +18,11 @@ def json_to_csv(json_file, csv_file):
     # Convert "Objetivos" (Objectives) and "Finalidades" (Goals) columns to comma-separated strings
     df_copy["Objetivos"] = df_copy["Objetivos"].apply(lambda x: ", ".join(x))
     df_copy["Finalidades"] = df_copy["Finalidades"].apply(lambda x: ", ".join(x))
+
+    # Replace '%' with '\%' in all columns
+    char_to_replace = "%"
+    replacement_char = r"\%"
+    df_copy = df_copy.apply(lambda x: x.map(lambda y: replace_characters(y, char_to_replace, replacement_char)))
 
     # Rename the columns
     df_copy.columns = ["IDProc", "Titulo", "Objetivos", "Finalidades"]
