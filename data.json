@@ -1,65 +1,104 @@
 [
-
   {
-    "IDProc": "DP01",
-    "Titulo": "Desenvolvimento de Software",
+    "IDProc": "TDP01",
+    "Titulo": "Considerações iniciais",
     "Objetivos": [
-        "Desenvolver código de alta qualidade",
-
-      "Assegurar entrega pontual"
-
+      "Fornecer um aparato de questões que deverão ser consideradas em todos os processos envolvendo Tratamento de Dados Pessoais"
 
     ],
-    "Finalidades": ["Lançar produto até o 3º trimestre", "Melhorar eficiência do código"]
+    "Finalidades": ["Prover os demais processos organizacionais com questões gerais que precisam ser incorporadas na organização como um todo",
+      "Elag"]
   },
   {
-    "IDProc": "DP01",
-    "Titulo": "Campanha de Marketing",
-    "Objetivos": ["Aumentar reconhecimento da marca", "Gerar leads"],
-    "Finalidades": ["Alcançar 100 mil impressões", "Adquirir 500 novos clientes"]
+    "IDProc": "TDP01",
+    "Titulo": "Consentimento de Dados ao Titular (art 7)",
+    "Objetivos": [
+      "Formalização para consentimento de uso de dados do titular"
+    ],
+    "Finalidades": ["Transparência da na execução das atividades de uso de dados do titular"]
   },
   {
-    "IDProc": "DP01",
-    "Titulo": "Suporte ao Cliente",
-    "Objetivos": ["Resolver questões dos clientes prontamente", "Melhorar satisfação do cliente"],
-    "Finalidades": ["Reduzir tempo de resposta em 20%", "Alcançar taxa de satisfação de 90%"]
-  },
-
-
-
-  {
-    "IDProc": "DP02",
-    "Titulo": "Desenvolvimento de Software 2",
-    "Objetivos": ["Desenvolver código de alta qualidade", "Assegurar entrega pontual"],
-    "Finalidades": ["Lançar produto até o 3º trimestre", "Melhorar eficiência do código"]
+    "IDProc": "TDP01",
+    "Titulo": "Regovação do Consentimento de Dados ao Titular",
+    "Objetivos": [
+      "Formalização para a revogação do consentimento de uso de dados do titular"
+    ],
+    "Finalidades": ["Transparência da na execução das atividades de uso de dados do titular"]
   },
   {
-    "IDProc": "DP02",
-    "Titulo": "Campanha de Marketing",
-    "Objetivos": ["Aumentar reconhecimento da marca", "Gerar leads"],
-    "Finalidades": ["Alcançar 100 mil impressões", "Adquirir 500 novos clientes"]
+    "IDProc": "TDP01",
+    "Titulo": "Acesso aos Dados do Titular",
+    "Objetivos": [
+      "Fornecer ao titular dos o acesso as informações sobre o tratamento de seus dados."
+    ],
+    "Finalidades": ["Transparência nas atividades organizacionais", "Cumprimento de regulamentação à Lei para evitar sanções"]
   },
   {
-    "IDProc": "DP02",
-    "Titulo": "Suporte ao Cliente",
-    "Objetivos": ["Resolver questões dos clientes prontamente", "Melhorar satisfação do cliente"],
-    "Finalidades": ["Reduzir tempo de resposta em 20%", "Alcançar taxa de satisfação de 90%"]
+    "IDProc": "TDP02",
+    "Titulo": "Tratamento de Dados Sensíveis",
+    "Objetivos": ["Tratar de forma explícita e transparente as finalidades do uso de dados pessoais sensíveis"],
+    "Finalidades": [
+      "Realização de estudos por instituição de pesquisa",
+      "Aplicar anonimização dos dados sempre que possível",
+      "Aplicação em procedimentos de saúde ou entidades sanitárias",
+      "Prevenção à fraude e à segurança dos dados do titular processos de  identificação  e autenticação de cadastro em sistemas eletrônicos,"
+    ]
+  },
+  {
+    "IDProc": "",
+    "Titulo": "Anonimização dos dados",
+    "Objetivos": ["Os dados só são considerados anonimizados quando ", "Obj 2"],
+    "Finalidades": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "IDProc": "",
+    "Titulo": " ",
+    "Objetivos": ["", "Obj 2"],
+    "Finalidades": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "IDProc": "TDP03",
+    "Titulo": " ",
+    "Objetivos": ["", "Obj 2"],
+    "Finalidades": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "IDProc": "TDP05",
+    "Titulo": "Sanções Administrativas ",
+    "Objetivos": ["Elencar os processos e procedimentos em caso de haver infrações  cometidas por parte dos agentes,",
+      "Prover transparência em todo seu processo "],
+    "Finalidades": [
+      "Apuração de penalidades envolvendo infrações cometidas às normas previstas nesta Lei;",
+      "Publicização para os agentes das possíveis sanções e penalidades em  razão  das  infrações  cometidas  às  normas previstas na Lei",
+      ""
+    ]
+  },
+  {
+    "IDProc": "TDP06",
+    "Titulo": "Registro (log) das operações",
+    "Objetivos": ["O operador e controlador devem manter registro das operações de tratamento de dados pessoais para substanciar o reltório de impacto à proteção de dados",
+      ""],
+    "Finalidades": [
+      "Apuração de penalidades envolvendo infrações cometidas às normas previstas nesta Lei;",
+      "Publicização para os agentes das possíveis sanções e penalidades em  razão  das  infrações  cometidas  às  normas previstas na Lei",
+      ""
+    ]
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
+
+
 
 
