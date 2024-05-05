@@ -29,8 +29,11 @@ def json_to_csv(json_file, csv_file):
 
     # Check if the output file already exists
     if os.path.exists(csv_file):
-        # If it exists, append the new data to the end of the file
-        df_copy.to_csv(csv_file, mode='a', header=False, index=False, quoting=1)
+        # If it exists, append the new data to the end of the file with a blank line between each row
+        with open(csv_file, 'a', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerows(df_copy.values)
+            f.write('\n')  # Add a blank line
     else:
         # If it doesn't exist, write the DataFrame to the CSV file
         df_copy.to_csv(csv_file, index=False, quoting=1)

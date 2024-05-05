@@ -11,7 +11,7 @@
   },
   {
     "IDProc": "TDP01",
-    "Titulo": "Consentimento de Dados ao Titular (art 7)",
+    "Titulo": "Consentimento de Dados ao Titular",
     "Objetivos": [
       "Formalização para consentimento de uso de dados do titular"
     ],
@@ -44,34 +44,22 @@
       "Prevenção à fraude e à segurança dos dados do titular processos de  identificação  e autenticação de cadastro em sistemas eletrônicos,"
     ]
   },
-  {
-    "IDProc": "",
-    "Titulo": "Anonimização dos dados",
-    "Objetivos": ["Os dados só são considerados anonimizados quando ", "Obj 2"],
-    "Finalidades": [
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "IDProc": "",
-    "Titulo": " ",
-    "Objetivos": ["", "Obj 2"],
-    "Finalidades": [
-      "",
-      "",
-      ""
-    ]
-  },
-  {
+    {
     "IDProc": "TDP03",
-    "Titulo": " ",
-    "Objetivos": ["", "Obj 2"],
+    "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
+    "Objetivos": ["Estabelecer processos formais para o conscentimento por  pelo menos um dos pais ou pelo responsável legal."],
     "Finalidades": [
-      "",
-      "",
-      ""
+      "Realização de estudos por instituição de pesquisa"
+    ]
+  },
+  {
+    "IDProc": "TDP04",
+    "Titulo": "Tratamento de Dados Pessoais pelo Poder Público",
+    "Objetivos": ["Tratar as ações de executar  as  competências legais  ou cumprir  as atribuições legais  do serviço público,"],
+    "Finalidades": [
+      "Fin1",
+      "Fin2",
+      "Fin3"
     ]
   },
   {
@@ -88,7 +76,7 @@
   {
     "IDProc": "TDP06",
     "Titulo": "Registro (log) das operações",
-    "Objetivos": ["O operador e controlador devem manter registro das operações de tratamento de dados pessoais para substanciar o reltório de impacto à proteção de dados",
+    "Objetivos": ["O operador e controlador devem manter registro das operações de tratamento de dados pessoais para substanciar o relatório de impacto à proteção de dados",
       ""],
     "Finalidades": [
       "Apuração de penalidades envolvendo infrações cometidas às normas previstas nesta Lei;",
