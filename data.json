@@ -1,16 +1,6 @@
 [
   {
     "IDProc": "TDP01",
-    "Titulo": "Considerações iniciais",
-    "Objetivos": [
-      "Fornecer um aparato de questões que deverão ser consideradas em todos os processos envolvendo Tratamento de Dados Pessoais"
-
-    ],
-    "Finalidades": ["Prover os demais processos organizacionais com questões gerais que precisam ser incorporadas na organização como um todo",
-      "Elag"]
-  },
-  {
-    "IDProc": "TDP01",
     "Titulo": "Consentimento de Dados ao Titular",
     "Objetivos": [
       "Formalização para consentimento de uso de dados do titular"
