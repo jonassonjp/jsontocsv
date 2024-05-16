@@ -39,7 +39,17 @@
     "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
     "Objetivos": ["Estabelecer processos formais para o conscentimento por  pelo menos um dos pais ou pelo responsável legal."],
     "Finalidades": [
-      "Realização de estudos por instituição de pesquisa"
+      "."
+    ]
+  },
+    {
+    "IDProc": "TDP03",
+    "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
+    "Objetivos": ["Estabelecer processos formais para o conscentimento por  pelo menos um dos pais ou pelo responsável legal.",
+                  "Eliminação dos dados após o término do tratamento"
+    ],
+    "Finalidades": [
+      "."
     ]
   },
   {
