@@ -54,6 +54,19 @@
   },
   {
     "IDProc": "TDP05",
+    "Titulo": "Solicitar acesso aos dados",
+    "Objetivos": ["Processo para solicitar acesso aos dados do titular"],
+    "Finalidades": ["."]
+  },
+  {
+    "IDProc": "TDP05",
+    "Titulo": "Solicitar alteração dos dados",
+    "Objetivos": ["Processo para solicitar alteração, correção ou exclusão dos dados do titular"],
+    "Finalidades": ["."]
+  },
+
+  {
+    "IDProc": "TDP06",
     "Titulo": "Sanções Administrativas ",
     "Objetivos": ["Elencar os processos e procedimentos em caso de haver infrações  cometidas por parte dos agentes,",
       "Prover transparência em todo seu processo "],
