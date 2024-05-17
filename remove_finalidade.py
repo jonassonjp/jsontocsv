@@ -15,7 +15,7 @@ def remove_finalidade(json_file_path):
                 if 'Finalidades' in item:
                     # Remover a chave 'Finalidades' e seu conteúdo
                     del item['Finalidades']
-                    print("A chave 'Finalidades' foi removida.")
+                    print(item['IDProc']+": a chave 'Finalidades' foi removida.")
                 else:
                     print("A chave 'Finalidades' não existe em um dos objetos.")
 
