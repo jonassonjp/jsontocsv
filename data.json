@@ -1,70 +1,70 @@
 [
     {
-        "IDProc": "TDP01",
+        "ProcType": "TDP01",
         "Titulo": "Consentimento de Dados ao Titular",
         "Objetivos": [
             "Formalização para consentimento de uso de dados do titular"
         ]
     },
     {
-        "IDProc": "TDP01",
+        "ProcType": "TDP01",
         "Titulo": "Regovação do Consentimento de Dados ao Titular",
         "Objetivos": [
             "Formalização para a revogação do consentimento de uso de dados do titular"
         ]
     },
     {
-        "IDProc": "TDP01",
+        "ProcType": "TDP01",
         "Titulo": "Acesso aos Dados do Titular",
         "Objetivos": [
-            "Fornecer ao titular dos o acesso as informações sobre o tratamento de seus dados."
+            "Fornecer ao titular dos dados o acesso às informações sobre o tratamento de seus dados."
         ]
     },
     {
-        "IDProc": "TDP02",
+        "ProcType": "TDP02",
         "Titulo": "Tratamento de Dados Sensíveis",
         "Objetivos": [
             "Tratar de forma explícita e transparente as finalidades do uso de dados pessoais sensíveis"
         ]
     },
     {
-        "IDProc": "TDP03",
+        "ProcType": "TDP03",
         "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
         "Objetivos": [
-            "Estabelecer processos formais para o conscentimento por  pelo menos um dos pais ou pelo responsável legal."
+            "Estabelecer processos formais para o consentimento por  pelo menos um dos pais ou pelo responsável legal."
         ]
     },
     {
-        "IDProc": "TDP03",
+        "ProcType": "TDP03",
         "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
         "Objetivos": [
-            "Estabelecer processos formais para o conscentimento por  pelo menos um dos pais ou pelo responsável legal.",
+            "Estabelecer processos formais para o consentimento por  pelo menos um dos pais ou pelo responsável legal.",
             "Eliminação dos dados após o término do tratamento"
         ]
     },
     {
-        "IDProc": "TDP04",
+        "ProcType": "TDP04",
         "Titulo": "Tratamento de Dados Pessoais pelo Poder Público",
         "Objetivos": [
             "Tratar as ações de executar  as  competências legais  ou cumprir  as atribuições legais  do serviço público,"
         ]
     },
     {
-        "IDProc": "TDP05",
+        "ProcType": "TDP05",
         "Titulo": "Solicitar acesso aos dados",
         "Objetivos": [
             "Processo para solicitar acesso aos dados do titular"
         ]
     },
     {
-        "IDProc": "TDP05",
+        "ProcType": "TDP05",
         "Titulo": "Solicitar alteração dos dados",
         "Objetivos": [
             "Processo para solicitar alteração, correção ou exclusão dos dados do titular"
         ]
     },
     {
-        "IDProc": "TDP06",
+        "ProcType": "TDP06",
         "Titulo": "Sanções Administrativas ",
         "Objetivos": [
             "Elencar os processos e procedimentos em caso de haver infrações  cometidas por parte dos agentes,",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "IDProc": "TDP06",
+        "ProcType": "TDP06",
         "Titulo": "Registro (log) das operações",
         "Objetivos": [
             "O operador e controlador devem manter registro das operações de tratamento de dados pessoais para substanciar o relatório de impacto à proteção de dados",
