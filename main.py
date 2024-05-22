@@ -17,7 +17,6 @@ def json_to_csv(json_file, csv_file):
 
     # Convert "Objetivos" (Objectives) and "Finalidades" (Goals) columns to comma-separated strings
     df_copy["Objetivos"] = df_copy["Objetivos"].apply(lambda x: ", ".join(x))
-    df_copy["Finalidades"] = df_copy["Finalidades"].apply(lambda x: ", ".join(x))
 
     # Replace '%' with '\%' in all columns
     char_to_replace = "%"
@@ -25,8 +24,10 @@ def json_to_csv(json_file, csv_file):
     df_copy = df_copy.apply(lambda x: x.map(lambda y: replace_characters(y, char_to_replace, replacement_char)))
 
     # Rename the columns
-    df_copy.columns = ["IDProc", "Titulo", "Objetivos", "Finalidades"]
+    df_copy.columns = ["ProcType", "Titulo", "Objetivos"]
 
+    # Add a new column with sequential values starting with 'P' and two-digit numbers
+    df_copy.insert(0, "IDProc", ["P{:02d}".format(i + 1) for i in range(len(df_copy))])
 
     # Write the DataFrame to the CSV file
     df_copy.to_csv(csv_file, index=False, quoting=1)

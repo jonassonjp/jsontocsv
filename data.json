@@ -49,26 +49,51 @@
             "Tratar as ações de executar  as  competências legais  ou cumprir  as atribuições legais  do serviço público,"
         ]
     },
+
     {
         "ProcType": "TDP05",
-        "Titulo": "Solicitar acesso aos dados",
+        "Titulo": "Confirmação sobre existência de tratamento",
         "Objetivos": [
-            "Processo para solicitar acesso aos dados do titular"
+            "Confirmação de que a organização possui tratamento adequado para os dados do titular;"
+        ]
+    },
+
+    {
+        "ProcType": "TDP05",
+        "Titulo": "Acesso aos dados",
+        "Objetivos": [
+            "Processo para solicitar acesso aos dados do titular;"
         ]
     },
     {
         "ProcType": "TDP05",
-        "Titulo": "Solicitar alteração dos dados",
+        "Titulo": "Retificação e Exclusão de Dados:",
         "Objetivos": [
-            "Processo para solicitar alteração, correção ou exclusão dos dados do titular"
+            "Processo para solicitar alteração, correção ou exclusão dos dados do titular;"
         ]
     },
+
+    {
+        "ProcType": "TDP05",
+        "Titulo": "Informações sobre compartilhamento de dados",
+        "Objetivos": [
+            "Fornecer a relação das organizações que foram compartilhado os dados;"
+        ]
+    },
+    {
+        "ProcType": "TDP05",
+        "Titulo": "Portabilidade dos dados",
+        "Objetivos": [
+            "Solicitação de portabilidade dos dados do titular a outro fornecedor de serviço ou produto;"
+        ]
+    },
+
     {
         "ProcType": "TDP06",
         "Titulo": "Sanções Administrativas ",
         "Objetivos": [
             "Elencar os processos e procedimentos em caso de haver infrações  cometidas por parte dos agentes,",
-            "Prover transparência em todo seu processo "
+            "Prover transparência em todo seu processo;"
         ]
     },
     {
