@@ -72,14 +72,6 @@
             "Processo para solicitar alteração, correção ou exclusão dos dados do titular;"
         ]
     },
-
-    {
-        "ProcType": "TDP05",
-        "Titulo": "Informações sobre compartilhamento de dados",
-        "Objetivos": [
-            "Fornecer a relação das organizações que foram compartilhado os dados;"
-        ]
-    },
     {
         "ProcType": "TDP05",
         "Titulo": "Portabilidade dos dados",
@@ -87,9 +79,75 @@
             "Solicitação de portabilidade dos dados do titular a outro fornecedor de serviço ou produto;"
         ]
     },
+    {
+        "ProcType": "TDP05",
+        "Titulo": "Informações sobre compartilhamento de dados",
+        "Objetivos": [
+            "Fornecer a relação das organizações que foram compartilhado os dados;"
+        ]
+    },
 
     {
         "ProcType": "TDP06",
+        "Titulo": "Transferencia internacionais de dados",
+        "Objetivos": [
+            "Procedimentos para transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o Brasil seja membro;"
+        ]
+    },
+
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Gestão em Segurança da Informação",
+        "Objetivos": [
+            "Elabrar um programa em gestão da segurança da informação que incluaa proteção os dados pessoais;"
+        ]
+    },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Programa de Governança e Privacidade",
+        "Objetivos": [
+            "Elabrar um programa em gestão da segurança da informação que incluaa proteção os dados pessoais;"
+        ]
+    },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Gestão em Políticas e Procedimentos de Proteção ",
+        "Objetivos": [
+            "Elaborara, atualizar e revisar periodicamente as políticas de proteção de dados pessoais para refletir mudanças na legislação ou nas operações da organização."
+        ]
+    },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Registro sobre operações de tratamento de dados pessoais",
+        "Objetivos": [
+            " Processo de registro atualizado das operações de tratamento de dados pessoais realizadas."
+        ]
+    },
+
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Plano de Resposta a Incidentes",
+        "Objetivos": [
+            " Desenvolver e implementar um plano de resposta a incidentes de segurança da informação"
+        ]
+    },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Comunicação de Incidentes",
+        "Objetivos": [
+            "Estabelecer procedimentos para comunicar incidentes de segurança à ANPD e aos titulares de dados pessoais, quando aplicável;"
+        ]
+    },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Relatório de Impacto à Proteção de Dados Pessoais",
+        "Objetivos": [
+            "Procedimentos para a elaboração do  relatório  de impacto  à  proteção  de  dados  pessoais (DPIA), referente  a  operações  de tratamento de dados pessoais;"
+        ]
+    },
+
+    {
+        "ProcType": "TDP0X",
         "Titulo": "Sanções Administrativas ",
         "Objetivos": [
             "Elencar os processos e procedimentos em caso de haver infrações  cometidas por parte dos agentes,",
@@ -97,7 +155,7 @@
         ]
     },
     {
-        "ProcType": "TDP06",
+        "ProcType": "TDP0X",
         "Titulo": "Registro (log) das operações",
         "Objetivos": [
             "O operador e controlador devem manter registro das operações de tratamento de dados pessoais para substanciar o relatório de impacto à proteção de dados",
