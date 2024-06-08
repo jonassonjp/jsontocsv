@@ -29,14 +29,14 @@
     },
     {
         "ProcType": "TDP03",
-        "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
+        "Titulo": "Consentimento para Tratamento de Dados Pessoais Sensíveis de Crianças e Adolescentes",
         "Objetivos": [
-            "Estabelecer processos formais para o consentimento por  pelo menos um dos pais ou pelo responsável legal."
+            "Estabelecer processos formais para o consentimento por  pelo menos um dos pais ou pelo responsável legal;"
         ]
     },
     {
         "ProcType": "TDP03",
-        "Titulo": "Dados Pessoais Sensíveis de Crianças e Adolescentes",
+        "Titulo": "Publicização dos tipos de dados coletados",
         "Objetivos": [
             "Estabelecer processos formais para o consentimento por  pelo menos um dos pais ou pelo responsável legal.",
             "Eliminação dos dados após o término do tratamento"
@@ -104,16 +104,24 @@
     },
     {
         "ProcType": "TDP07",
-        "Titulo": "Programa de Governança e Privacidade",
+        "Titulo": "Políticas de Proteção e Privacidade de Dados",
         "Objetivos": [
-            "Elabrar um programa em gestão da segurança da informação que incluaa proteção os dados pessoais;"
+            "Elabrar de políticas  de proteção e privacidade de dados;"
+        ]
+    },
+
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Treinamento e Conscientização",
+        "Objetivos": [
+            "Realização de treinamentos e ações de conscientização periódicos para os colaboradores envolvidos no tratamento de dados pessoais"
         ]
     },
     {
         "ProcType": "TDP07",
-        "Titulo": "Gestão em Políticas e Procedimentos de Proteção ",
+        "Titulo": "Auditorias internas ",
         "Objetivos": [
-            "Elaborara, atualizar e revisar periodicamente as políticas de proteção de dados pessoais para refletir mudanças na legislação ou nas operações da organização."
+            "Conduzir auditorias internas regulares para garantir a conformidade com a LGPD."
         ]
     },
     {
@@ -131,13 +139,7 @@
             " Desenvolver e implementar um plano de resposta a incidentes de segurança da informação"
         ]
     },
-    {
-        "ProcType": "TDP07",
-        "Titulo": "Comunicação de Incidentes",
-        "Objetivos": [
-            "Estabelecer procedimentos para comunicar incidentes de segurança à ANPD e aos titulares de dados pessoais, quando aplicável;"
-        ]
-    },
+
     {
         "ProcType": "TDP07",
         "Titulo": "Relatório de Impacto à Proteção de Dados Pessoais",
