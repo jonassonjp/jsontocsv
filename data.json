@@ -126,7 +126,7 @@
     },
     {
         "ProcType": "TDP07",
-        "Titulo": "Registro sobre operações de tratamento de dados pessoais",
+        "Titulo": "Operações de tratamento de dados pessoais",
         "Objetivos": [
             " Processo de registro atualizado das operações de tratamento de dados pessoais realizadas."
         ]
@@ -147,6 +147,15 @@
             "Procedimentos para a elaboração do  relatório  de impacto  à  proteção  de  dados  pessoais (DPIA), referente  a  operações  de tratamento de dados pessoais;"
         ]
     },
+    {
+        "ProcType": "TDP07",
+        "Titulo": "Encarregado de Dados Pessoais (DPO)",
+        "Objetivos": [
+            " Processo para tratar nomeação, treinamento e avaliação do encarregado de dados pessoais."
+        ]
+    },
+
+
 
     {
         "ProcType": "TDP0X",
